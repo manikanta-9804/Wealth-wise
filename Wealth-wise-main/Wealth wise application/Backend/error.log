@@ -1,0 +1,337 @@
+Wed May 29 2024 15:34:35 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 15:34:51 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:24:41 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:25:44 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:25:53 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:26:59 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:27:39 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:12:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:27:54 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:9:22
+Wed May 29 2024 17:28:33 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:9:22
+Wed May 29 2024 17:28:52 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:9:22
+Wed May 29 2024 17:31:19 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:31:26 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Wed May 29 2024 17:31:48 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Thu May 30 2024 10:26:28 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:11:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Thu May 30 2024 11:08:22 GMT+0530 (India Standard Time) Error: Failed to fetch user details
+    at user.fetchUserDetails (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:21:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:19:22
+Thu May 30 2024 11:44:48 GMT+0530 (India Standard Time) ReferenceError: result is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:21:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu May 30 2024 11:45:37 GMT+0530 (India Standard Time) ReferenceError: result is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:21:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu May 30 2024 12:35:35 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Thu May 30 2024 12:35:35 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Thu May 30 2024 12:35:35 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:8:22
+Thu May 30 2024 13:55:38 GMT+0530 (India Standard Time) ReferenceError: Cannot access 'user' before initialization
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:13:21
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:47:12)
+Thu May 30 2024 13:55:57 GMT+0530 (India Standard Time) ReferenceError: Cannot access 'user' before initialization
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:13:21
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:47:12)
+Thu May 30 2024 13:56:25 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:18:22
+Thu May 30 2024 13:56:30 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:18:22
+Thu May 30 2024 13:56:36 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:18:22
+Thu May 30 2024 13:57:22 GMT+0530 (India Standard Time) ReferenceError: id is not defined
+    at generateId (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:6:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:12:21
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\node_modules\express\lib\router\index.js:175:3)
+Thu May 30 2024 13:57:37 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:18:22
+Thu May 30 2024 13:57:38 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:18:22
+Thu May 30 2024 13:57:40 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:18:22
+Thu May 30 2024 13:58:02 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:18:22
+Thu May 30 2024 14:52:48 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:17:22
+Thu May 30 2024 14:53:07 GMT+0530 (India Standard Time) Error: Failed to sign in
+    at user.signUp (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:17:22
+Thu May 30 2024 15:17:20 GMT+0530 (India Standard Time) ReferenceError: expenseId is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:70:82
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Thu May 30 2024 15:30:11 GMT+0530 (India Standard Time) Error: Failed to fetch user details
+    at user.fetchUserDetails (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:27:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:26:20
+Thu May 30 2024 15:30:55 GMT+0530 (India Standard Time) Error: Failed to fetch user details
+    at user.fetchUserDetails (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:27:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:26:20
+Thu May 30 2024 15:30:56 GMT+0530 (India Standard Time) Error: Failed to fetch user details
+    at user.fetchUserDetails (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:27:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:26:20
+Fri May 31 2024 09:50:31 GMT+0530 (India Standard Time) Error: Failed to delete the expense
+    at user.deleteExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:54:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:96:22
+Fri May 31 2024 09:51:32 GMT+0530 (India Standard Time) Error: Failed to delete the expense
+    at user.deleteExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:54:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:96:22
+Fri May 31 2024 09:52:15 GMT+0530 (India Standard Time) Error: Failed to delete the expense
+    at user.deleteExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:54:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:96:22
+Fri May 31 2024 11:48:15 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getTotalAmountByCategory (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:87:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:132:22
+Fri May 31 2024 11:49:04 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getTotalAmountByCategory (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:87:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:132:22
+Fri May 31 2024 11:49:07 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getTotalAmountByCategory (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:87:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:132:22
+Fri May 31 2024 12:17:21 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\backend\src\routing\routing.js:95:22
+Sun Jun 02 2024 21:24:50 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Sun Jun 02 2024 21:27:29 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Sun Jun 02 2024 21:40:15 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:30:18 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:30:50 GMT+0530 (India Standard Time) ReferenceError: generateId is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:61:24
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:47:12)
+Tue Jun 04 2024 11:30:55 GMT+0530 (India Standard Time) ReferenceError: generateId is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:61:24
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:47:12)
+Tue Jun 04 2024 11:31:14 GMT+0530 (India Standard Time) ReferenceError: generateId is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:61:24
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:47:12)
+Tue Jun 04 2024 11:31:42 GMT+0530 (India Standard Time) ReferenceError: generateId is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:61:24
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:47:12)
+Tue Jun 04 2024 11:32:07 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:37:55 GMT+0530 (India Standard Time) ReferenceError: generateId is not defined
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:61:24
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\node_modules\express\lib\router\index.js:47:12)
+Tue Jun 04 2024 11:39:40 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:39:52 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:40:21 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:41:27 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:41:44 GMT+0530 (India Standard Time) Error: Failed to update the expense
+    at user.updateExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:65:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:121:22
+Tue Jun 04 2024 11:41:48 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:42:06 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:43:26 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:43:53 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:44:50 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:45:02 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:45:14 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:46:41 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:47:05 GMT+0530 (India Standard Time) Error: Failed to fetch the expense
+    at user.getExpenseById (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:76:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:95:22
+Tue Jun 04 2024 11:55:44 GMT+0530 (India Standard Time) Error: failed to add expense.!
+    at user.createNewExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:32:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:68:23
+Tue Jun 04 2024 11:55:46 GMT+0530 (India Standard Time) Error: failed to add expense.!
+    at user.createNewExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:32:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:68:23
+Tue Jun 04 2024 11:55:53 GMT+0530 (India Standard Time) Error: failed to add expense.!
+    at user.createNewExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:32:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:68:23
+Tue Jun 04 2024 11:56:14 GMT+0530 (India Standard Time) Error: failed to add expense.!
+    at user.createNewExpense (C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\service\user.js:32:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\vinayak.gavaroji\Desktop\GitCapstone\Capstone-Projects_ENG_PIP_MERN_MEAN_APR_2024_1260784\Backend\src\routing\routing.js:68:23
